@@ -1,5 +1,8 @@
+<img src="assets/icon48.png" width=48px height=48px>
+
 # Teams Holiday Special
 Bringing festive joy to your Teams chats.
+
 
 ## Installation:
 1. Download or clone the repository
