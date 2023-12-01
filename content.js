@@ -15,7 +15,7 @@ function startWhenReady() {
 
     if (messagePane != null) {
       changeBackgroundImage(messagePane);
-      observer.disconnect();
+      // observer.disconnect();
     }
   });
 
