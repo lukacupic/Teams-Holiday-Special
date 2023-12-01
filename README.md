@@ -2,6 +2,7 @@
 
 # Teams Holiday Special
 Bringing festive joy to your Teams chats.
+This is a Chrome extension for changing the background of Teams chats.
 
 
 ## Installation:
@@ -11,6 +12,6 @@ Bringing festive joy to your Teams chats.
 4. Click "Load unpacked" on the left side and locate the extension directory
 
 ## Usage:
-Open a Teams tab and locate the extension. Enter url and reload the page. Rejoice.
+Open a Teams tab and locate the extension. Enter an image url and reload the page. Rejoice.
 
 For any issues please let me know.
