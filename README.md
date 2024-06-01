@@ -12,6 +12,6 @@ This is a Chrome extension for changing the background of Teams chats.
 4. Click "Load unpacked" on the left side and locate the extension directory
 
 ## Usage:
-Open a Teams tab and locate the extension. Enter an image url and reload the page. Rejoice.
+Open a Teams tab and locate the extension. Enter an image url, reload the page, and rejoice.
 
-For any issues please let me know.
+Ping me if you encounter any issues.
